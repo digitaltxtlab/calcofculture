@@ -18,31 +18,29 @@ Goals:
 Pre-workshop dinner at:
 
 ## Tuesday, March 21
-** FOUNDATIONS **
 
-| Time        | Content           | Speaker  |
-| ------------- |:-------------:| -----:|
-| 10:00-10:30 | `Culture Analytics Network` | JG & KLN |
-| 10:30-11:15 | `A Calculus` | JA |
-| 11:15-12:00 | theme: cultures | AR |
-| 12:00-13:00 | lunch break | |
-| 13:00-13:45 | `Scaling Laws Governing the Complexity of Global Political Event Evolutions` | JG |
-| 13:30-14:00 | `Cultural Disruption and Time-Dependency in Systems of Symbolic Production` | KLN |
-| 14:00-14:15 | break | |
-| 14:00-15:00 | theme: social media | JK |
-| 15:00-15:45 | theme: newspapers | MW |
-| 15:45-16:00 | `title` | name |
-| 15:45-16:00 | `title` | name |
-
-Dinner at:
-
-## Wednesday, March 22
-** Outlining the problem(s) **  
-Outline of/contouring the Manifesto  
 
 | Time        | Activity           |
 | ------------- |:-------------:|
-| 09:00-10:00 | `Culture Analytics` |
+| 09:00-10:00 | `title` |
+| 10:00-10:30 | `title` |
+| 10:30-11:00 | break |
+| 11:00-12:00 | `title` |
+| 12:00-12:30 | `title` |
+| 12:30-13:30 | lunch break |
+| 13:30-14:00 | `title` |
+| 14:00-14:15 | break |
+| 14:00-15:00 | `title` |
+| 15:00-15:45 | `title` |
+| 15:45-16:00 | `title`|
+Dinner at:
+
+## Wednesday, March 22
+
+
+| Time        | Activity           |
+| ------------- |:-------------:|
+| 09:00-10:00 | `title` |
 | 10:00-10:30 | `title` |
 | 10:30-11:00 | break |
 | 11:00-12:00 | `title` |
@@ -56,25 +54,27 @@ Outline of/contouring the Manifesto
 
 
 Dinner at:
+
+[//]: # "AR meeting 12-16 CET"
+
 ## Thursday, March 23  
-** RESEARCH MANIFESTO **  
-Finding solutions (hacking and rehashing two millennia of culutral science)
-Research groups/initiate phase 2
 
 
-| Time        | Activity           |
-| ------------- |:-------------:|
-| 09:00-10:00 |`title` |
-| 10:00-10:30 | `title` |
-| 10:30-11:00 | break |
-| 11:00-12:00 | `title` |
-| 12:00-12:30 | `title` |
-| 12:30-13:30 | lunch break |
-| 13:30-14:00 | `title` |
-| 14:00-14:15 | break |
-| 14:00-15:00 | `title` |
-| 15:00-15:45 | `title` |
-| 15:45-16:00 |  |
+
+| Time        | Title        | Activity        |
+| ------------- |:-------------:| ------------- |
+| 08:30-09:00 |`Welcome Vision`| James, Jianbo & Kristoffer* |
+| 09:00-10:00 |`What have we learned` | round table ~ summary|
+| 10:00-10:30 | `Foundation(s)` | groups formulate first principles|
+| 10:30-11:00 | break | coffee/tea |
+| 11:00-12:00 | `Hacking Cultural Science` | round table ~ exemplar identification |
+| 12:00-12:30 | `Vision for Calculus of Culture #1` | groups ~ linking foundations and hacks |
+| 12:30-13:30 | lunch break | |
+| 13:30-14:00 | `Vision for Calculus of Culture #1` |groups ~ linking foundations and hacks |
+| 14:00-14:15 | break | coffee/tea |
+| 14:00-15:00 | `Synthesis` |round table on manifesto|
+| 15:00-16:00 | `Implementation` | data repository |
+| 16:00-17:00 | `Next step` | The future belongs to those who prepare for it today|
 
 Dinner at:
 
