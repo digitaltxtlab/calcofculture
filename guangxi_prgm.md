@@ -121,4 +121,8 @@ Goals:
 - Zhou, Chennan, Guangxi University
 - Zhu, Tingshao, Chinese Academy of Sciences
 
-## Reading material
+## Hotel information
+Landmark Hotel, address: University of East Road, No.118.
+Phone: （86）771-2336888.  
+Website:  http://www.landmarkhotel.com.cn/explore/contact.html  
+[Map](https://goo.gl/e1UvqM)
