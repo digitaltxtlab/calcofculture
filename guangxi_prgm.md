@@ -97,8 +97,8 @@ Goals:
 ## Participants
 - Abello, James, Center for Discrete Mathematics and Theoretical Computer Science, Rutgers University, US
 - Bechmann, Anja, Datalab, School of Communication and Culture, Aarhus University, Denmark
-- Golub, Koraljka, School of Cultural Sciences, Linnaeus University, Sweden
 - Gao, Jianbo, Institute of Complexity Science and Big Data Technology, Guangxi University
+- Golub, Koraljka, School of Cultural Sciences, Linnaeus University, Sweden
 - Hou, Yunfei, Guangxi University
 - Kim, Jiyoung, Datalab, School of Communication and Culture, Aarhus University, Denmark
 - Liu, Feiyan, Guangxi University
