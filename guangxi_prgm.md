@@ -15,7 +15,7 @@ Goals:
 
 
 ## Monday, March 20
-**Pre-workshop dinner at**
+**Pre-workshop dinner for core network at Landmark Hotel**
 
 ## Tuesday, March 21
 
@@ -40,7 +40,7 @@ Goals:
 | 16:10-16:45 | How Big Data Help Understanding Risks in China's Financial Markets | Yang, Xiaoguang |
 | 16:45-17:20 | Covariate-adaptive Randomization with Variable Selection in High Dimensional Data | Yin, Jianxin |
 | 17:30-19:30 | `DINNER` |  location |
-**Dinner at**
+**Dinner at **
 
 ## Wednesday, March 22
 
@@ -98,8 +98,8 @@ Goals:
 - Abello, James, Center for Discrete Mathematics and Theoretical Computer Science, Rutgers University, US
 - Bechmann, Anja, Datalab, School of Communication and Culture, Aarhus University, Denmark
 - Golub, Koraljka, School of Cultural Sciences, Linnaeus University, Sweden
-- Hou, Yunfei, Guangxi University
 - Gao, Jianbo, Institute of Complexity Science and Big Data Technology, Guangxi University
+- Hou, Yunfei, Guangxi University
 - Kim, Jiyoung, Datalab, School of Communication and Culture, Aarhus University, Denmark
 - Liu, Feiyan, Guangxi University
 - Liu, Jianguo, Shanghai University of Finance and Economics
