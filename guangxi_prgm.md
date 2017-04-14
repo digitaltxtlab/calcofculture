@@ -80,6 +80,13 @@ Goals:
 |:-------------:|:-------------:|:-------------:|
 | 08:30-09:00 |`Vision`| James, Jianbo & Kristoffer* |
 | 09:00-10:00 |`What have we learned` | round table ~ summary|
+<<<<<<< HEAD
+| 10:00-10:30 | `Foundation(s)` | round table |
+| 10:30-11:00 | break | coffee/tea |
+| 11:00-12:00 | What is next | round table|
+| 12:00-12:30 | lunch break | groups ~ linking foundations and hacks |
+| 12:30-13:30 | summary  | round table |
+=======
 | 10:00-10:30 | `Foundation(s)` | groups formulate first principles|
 | 10:30-11:00 | break | coffee/tea |
 | 11:00-12:00 | `Hacking Cultural Science` | round table ~ exemplar identification |
@@ -92,6 +99,7 @@ Goals:
 | 16:00-17:00 | `Next step` | The future belongs to those who prepare for it today|
 
 **Dinner at**
+>>>>>>> ed876e310df99fa6a00a7f7a37cf8c7a3328c278
 
 
 ## Participants
