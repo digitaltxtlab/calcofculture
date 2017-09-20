@@ -78,6 +78,7 @@ Day 2 is a mini-hackfest where network members work together on datasets and too
 - Nielbo, Kristoffer L., Interacting Minds Centre, School of Culture and Society, Aarhus University, Denmark
 - Liu, Bin, Guangxi University, China
 - Roepstorff, Andreas, Interacting Minds Centre, School of Culture and Society, Aarhus University, Denmark
+- Thomsen, Mads Rosendahl
 - Tørring, Marie Louise
 - Vuculescu, Oana, Department of Management, Aarhus University, Denmark
 - Wevers, Melvin, Department of Art and Art History, Utrecht University, Netherlands
