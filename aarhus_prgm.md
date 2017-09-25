@@ -27,19 +27,19 @@ Day 1 of the workshop consists of presentations from the network (1st. half) and
 | :---: | :---: | :---: |
 | 09:00-12:00 | `Session 1` | |
 | 09:00-09:30 | Welcome | Andreas Roepstorff |
-| 09:30-10:30 | TBA | James Abello |
-| 10:00-10:30 | TBA | Melvin Wevers |
+| 09:30-10:30 | Calculus of Culture, Part II | James Abello |
+| 10:00-10:30 | Studying Historical Concepts in Large Datasets | Melvin Wevers |
 | 10:30-11:00 | TBA | Anja Bechmann |
-| 11:00-11:30 | TBA | Jianbo Gao |
+| 11:00-11:30 | A framework for a calculus of the evolution of culture and democracy | Jianbo Gao |
 | 11:30-12:00 | TBA | Kristoffer Nielbo |
 | 12:00-13:00 | `Lunch @ IMC` | |
 | 13:00-16:00 |`Session 2`| |
-| 13:00-13:30 | TBA | Oana Vuculescu & Carsten Bergenholtz |
-| 13:30-14:00 | TBA | Bin Liu & Menglan Ma |
+| 13:00-13:30 | Scientists' pathways to celebrity: types and trajectories of media exposure leading to being an "expert". | Morten Fenger |
+| 13:30-14:00 | Does ideology affect news media reports? --- Insights from a cohort of quantitative analysis| Menglan Ma |
 | 14:00-14:30 | When Vaccines Go Viral | Marie Louise Tørring |
-| 14:30-15:00 | TBA | Morten Fenger |
-| 15:00-15:30 | TBA | Riccardo Fusaroli |
-| 15:30-16:00 | Conclusion |  |
+| 14:30-15:00 | Mapping the recession of democracy across space and time in the world | Bin Liu |
+| 15:00-15:30 | Adversarial coordination: dynamics of collective engagement on Twitter during US presidential debates | Riccardo Fusaroli* |
+| 15:30-16:00 | Ikea-effect in collective problem solving | Oana Vuculescu & Carsten Bergenholtz |
 | ... | ... | ... |
 | 17:00-19:00 | Visit to Aros | |
 | 19:00-00:00 | `Workshop Dinner` | TBA |
