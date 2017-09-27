@@ -70,6 +70,7 @@ Day 2 is a mini-hackfest where network members work together on datasets and too
 - Abello, James, Center for Discrete Mathematics and Theoretical Computer Science, Rutgers University, US
 - Bechmann, Anja, Datalab, Interacting Minds Centre, School of Communication and Culture, Aarhus University, Denmark
 - Bergenholtz, Carsten, Department of Management, Aarhus University, Denmark
+- Bogicevic, Ivana, Interacting Minds Centre, School of Culture and Society, Aarhus University, Denmark
 - Eckardt, Max Roald, Department of Design and Communikation, University of Southern Denmark, Denmark   
 - Fenger, Morten H. J. Department of Economics and Business Economics, Aarhus University, Denmark
 - Fusaroli, Riccardo, School og Culture and Communication, Aarhus University, Denmark
@@ -81,8 +82,9 @@ Day 2 is a mini-hackfest where network members work together on datasets and too
 - Roepstorff, Andreas, Interacting Minds Centre, School of Culture and Society, Aarhus University, Denmark
 - Thomsen, Mads Rosendahl, Digital Text Lab, , School of Communication and Culture, Aarhus University, Denmark
 - Tørring, Marie Louise, Anthroplogy, School of Culture and Society, Aarhus University, Denmark
+- Madsen, Niklas Bargmann, Digital Text Lab, , School of Communication and Culture, Aarhus University, Denmark
 - Vuculescu, Oana, Department of Management, Aarhus University, Denmark
-- Wevers, Melvin, Department of Art and Art History, Utrecht University, Netherlands
+- Wevers, Melvin, Digital Humanities Group, KNAW Humanities Cluster, Amsterdam, Netherlands
 
 
 ## Hotel information
