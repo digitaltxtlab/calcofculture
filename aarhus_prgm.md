@@ -29,9 +29,9 @@ Day 1 of the workshop consists of presentations from the network (1st. half) and
 | 09:00-09:30 | Welcome | Andreas Roepstorff |
 | 09:30-10:30 | Calculus of Culture, Part II | James Abello |
 | 10:00-10:30 | Studying Historical Concepts in Large Datasets | Melvin Wevers |
-| 10:30-11:00 | TBA | Anja Bechmann |
+| 10:30-11:00 | Are We Exposed to the Same “News” in the Newsfeed? | Anja Bechmann |
 | 11:00-11:30 | A framework for a calculus of the evolution of culture and democracy | Jianbo Gao |
-| 11:30-12:00 | TBA | Kristoffer Nielbo |
+| 11:30-12:00 | The Dostoyevskian Trope: State Incongruence in Danish Textual Cultural Heritage | Kristoffer L. Nielbo |
 | 12:00-13:00 | `Lunch @ IMC` | |
 | 13:00-16:00 |`Session 2`| |
 | 13:00-13:30 | Scientists' pathways to celebrity: types and trajectories of media exposure leading to being an "expert". | Morten Fenger |
@@ -76,9 +76,10 @@ Day 2 is a mini-hackfest where network members work together on datasets and too
 - Fusaroli, Riccardo, School og Culture and Communication, Aarhus University, Denmark
 - Gao, Jianbo, Institute of Complexity Science and Big Data Technology, Guangxi University, China
 - Kim, Jiyoung, Datalab, School of Communication and Culture, Aarhus University, Denmark
+- Liu, Bin, Guangxi University, China
 - Ma, Menglan, Guangxi University, China
 - Nielbo, Kristoffer L., Department of History, University of Southern Denmark, Denmark
-- Liu, Bin, Guangxi University, China
+- Nielsen, Stine Hauberg, , Anthroplogy, School of Culture and Society, Aarhus University, Denmark
 - Roepstorff, Andreas, Interacting Minds Centre, School of Culture and Society, Aarhus University, Denmark
 - Thomsen, Mads Rosendahl, Digital Text Lab, , School of Communication and Culture, Aarhus University, Denmark
 - Tørring, Marie Louise, Anthroplogy, School of Culture and Society, Aarhus University, Denmark
