@@ -42,7 +42,7 @@ Day 1 of the workshop consists of presentations from the network (1st. half) and
 | 15:30-16:00 | Ikea-effect in collective problem solving | Oana Vuculescu & Carsten Bergenholtz |
 | ... | ... | ... |
 | 17:00-19:00 | Visit to Aros | |
-| 19:00-00:00 | `Workshop Dinner` | TBA |
+| 19:00-00:00 | `Workshop Dinner` | SPISELAUGET - GODSBANEN |
 
 ## Thursday, October 5
 Day 2 is a mini-hackfest where network members work together on datasets and tools that have been collected/developed during the Calculus of Culture in order to identify future project venues  
@@ -57,12 +57,11 @@ Day 2 is a mini-hackfest where network members work together on datasets and too
 | 13:00-18:00 |`Session 2`| |
 | 13:00 - 18:00 | Let's Data | --- |
 | 18:00 - 19:00 | Walk i Risskov | ... |
-| 19:00-00:00 | `Workshop Dinner` | TBA |
+| 19:00-00:00 | `Workshop Dinner` |  |
 ## Friday, October 6
 | Time | Activity | Speaker |
 | :---: | :---: | :---: |
-| 09:00-10:30 | Summary of the Hackfest | |
-| 10:30 - 11:30 | Next Steps | |
+| 10:00-11:30 | Summary and Next Step | |
 | 11:30 - 12:00 | Culture Analytics Session? | |
 | 12:00- | `Lunch` | TBA |
 
