@@ -30,7 +30,7 @@ Day 1 of the workshop consists of presentations from the network (1st. half) and
 | :---: | :---: | :---: |
 | 09:00-12:00 | `Session 1` | |
 | 09:00-09:30 | Welcome | Andreas Roepstorff |
-| 09:30-10:30 | Calculus of Culture, Part II | James Abello |
+| 09:30-10:00 | Calculus of Culture, Part II | James Abello |
 | 10:00-10:30 | Studying Historical Concepts in Large Datasets | Melvin Wevers |
 | 10:30-11:00 | Are We Exposed to the Same “News” in the Newsfeed? | Anja Bechmann |
 | 11:00-11:30 | A framework for a calculus of the evolution of culture and democracy | Jianbo Gao |
