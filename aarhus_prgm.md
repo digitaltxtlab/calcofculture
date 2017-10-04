@@ -50,8 +50,7 @@ Day 2 is a mini-hackfest where network members work together on datasets and too
 
 | Time | Activity | Speaker |
 | :---: | :---: | :---: |
-| 09:00-12:00 | `Session 1` | |
-| 09:00 - 09:30 | Data Sets and Tools | Melvin & Kristoffer |
+| 10:00-12:00 | `Session 1` | |
 | 09:30 - 10:00 | Groups and Goals | --- |
 | 10:00 - 12:00 | Let's Data | --- |
 | 12:00-13:00 | `Lunch @ IMC` | |
