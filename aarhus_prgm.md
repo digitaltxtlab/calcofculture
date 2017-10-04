@@ -23,6 +23,9 @@ James Abello will give a talk at IMC's lab meeting and we will have dinner downt
 ## Wednesday, October 4
 Day 1 of the workshop consists of presentations from the network (1st. half) and specially invited colleagues from Aarhus University.
 
+[INFO](https://goo.gl/ZL3EMg)  
+
+
 | Time | Activity | Speaker |
 | :---: | :---: | :---: |
 | 09:00-12:00 | `Session 1` | |
