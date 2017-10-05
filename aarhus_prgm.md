@@ -48,6 +48,8 @@ Day 1 of the workshop consists of presentations from the network (1st. half) and
 ## Thursday, October 5
 Day 2 is a mini-hackfest where network members work together on datasets and tools that have been collected/developed during the Calculus of Culture in order to identify future project venues  
 
+DOCUMENT LINK [HERE](https://goo.gl/vV2e4k)  
+
 | Time | Activity | Speaker |
 | :---: | :---: | :---: |
 | 10:00-12:00 | `Session 1` | |
