@@ -95,3 +95,5 @@ Email: hotel.aarhus@comwell.dk
 Phone: (+45) 8672 8000  
 Website:  https://www.comwellaarhus.dk/    
 [Map](https://goo.gl/Teo5N2)
+
+![Alt text](calculus_culture_au.JPG?raw=true "Title")
